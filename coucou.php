@@ -2,4 +2,5 @@
 
 echo 'coucou les ptiots';
 
+addsomeclass();
 
